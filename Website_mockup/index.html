@@ -15,12 +15,8 @@
             padding-left: 15px;
         }
         .container{
+            display: flex;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            text-align: left;
-            padding-left: 10px;
-            padding-right: 10px;
-            margin: auto;
-            width: 50%;
             
         }
 
@@ -38,12 +34,30 @@
             height: 220px;
             float: right;
         }
+
+        nav ul{
+            display: flex;
+            padding: 0;
+            list-style-type: none;
+        }
+
+        nav li{
+            flex-basis: 100px;
+            background-color: gold;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Menu</li>
+            <li>About Us</li>
+        </ul>
+    </nav>
     <h1>Jordan's Sandies</h1>
     <div class="container">
-        <h2>Sandwich List</h2>
             <table class="board_container">
                     <tr class="inner_container1">
                         <th>Sandwich</th>
@@ -82,7 +96,6 @@
                         <td>$17</td>
                     </tr>
             </table>
-            <h2>Drink List</h2>
             <table class="board_container">
                 <tr class="inner_container1">
                     <th>Alcohol</th>
@@ -120,7 +133,6 @@
                     <td>Rum & Coke</td>
                     <td>$6</td>
                 </tr>
-                <img class="fit_picture" src="/imgs/burger.jpg" alt="burger pic">
         </table>
     </div>
 </body>
