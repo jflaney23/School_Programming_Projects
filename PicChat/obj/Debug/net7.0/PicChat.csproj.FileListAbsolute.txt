@@ -1,0 +1,15 @@
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/bin/Debug/net7.0/PicChat
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/bin/Debug/net7.0/PicChat.deps.json
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/bin/Debug/net7.0/PicChat.runtimeconfig.json
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/bin/Debug/net7.0/PicChat.dll
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/bin/Debug/net7.0/PicChat.pdb
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.csproj.AssemblyReference.cache
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.AssemblyInfoInputs.cache
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.AssemblyInfo.cs
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.csproj.CoreCompileInputs.cache
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.dll
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/refint/PicChat.dll
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.pdb
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/PicChat.genruntimeconfig.cache
+/Users/jflaney23/Developer/School_Programming_Projects/PicChat/obj/Debug/net7.0/ref/PicChat.dll
